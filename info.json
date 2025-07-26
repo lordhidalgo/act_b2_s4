@@ -1,6 +1,14 @@
-{
-    "identificacion": "1023623428",
-    "nombres": "luis mario ",
-    "apellidos": "arcila hidalgo",
-    "grupo": "b2-sabado"
-}
+[
+    {
+        "identificacion": "1023623428",
+        "nombres": "luis mario ",
+        "apellidos": "arcila hidalgo",
+        "grupo": "b2-sabado"
+    },
+    {
+        "identificacion": "1018351473",
+        "nombres": "alex jeison",
+        "apellidos": "cardenas morales",
+        "grupo": "b2-sabado"
+    }
+]
